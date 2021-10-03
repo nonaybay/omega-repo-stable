@@ -3,6 +3,6 @@
     "/usr/bin/fdroid update",
     "-v"
   ],
-  "startTimestamp": 1633304160000,
+  "startTimestamp": 1633304502000,
   "subcommand": "update"
 }
