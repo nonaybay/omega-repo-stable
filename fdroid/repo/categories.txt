@@ -1,1 +1,2 @@
-stable
+Omega Launcher Project
+Theming
